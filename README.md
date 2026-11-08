@@ -1,5 +1,16 @@
 # Tab Wallet
 
+
+<div align="center">
+
+![Version](https://img.shields.io/badge/version-1.2-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-Available-4285F4?logo=google-chrome)
+![Manifest](https://img.shields.io/badge/Manifest-V3-orange)
+![Privacy](https://img.shields.io/badge/privacy-100%25%20local-brightgreen)
+
+</div>
+
 A simple, private, and efficient tab session manager for Google Chrome and Chromium-based browsers. Save open tabs for later and free up RAM. Restore saved tabs when you want. All data stays on your device
 
 ---
