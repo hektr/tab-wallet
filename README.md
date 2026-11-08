@@ -17,17 +17,16 @@ A simple, private, and efficient tab session manager for Google Chrome and Chrom
 
 ## Screenshots
 
+## Screenshots
+
 <div align="center">
-
-![Main View](screenshot.png)
-*Main popup showing open tabs count and saved sessions*
-
-<br>
-
-![Session Detail](screenshot2.png)
-*Session detail view with tab list and restore options*
-
+  <img src="screenshot.png" alt="Main View" width="48%" style="margin-right: 2%;" />
+  <img src="screenshot2.png" alt="Session Detail" width="48%" />
 </div>
+
+<p align="center">
+  <em>Main popup showing open tabs count and saved sessions</em>
+</p>
 
 ---
 
