@@ -41,3 +41,11 @@ Read the full, detailed policy here: **[POLICY](docs/POLICY)**
 ## License
 
 This project is open-source and licensed under the **MIT License** — see the [LICENSE](docs/LICENSE) file for details.
+
+---
+
+<div align="center">
+
+[![Support on Boosty](https://img.shields.io/badge/Support_on-Boosty-FF6D00?logo=boosty&logoColor=white)](https://boosty.to/hektr992)
+
+</div>
