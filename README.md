@@ -15,6 +15,22 @@ A simple, private, and efficient tab session manager for Google Chrome and Chrom
 
 ---
 
+## Screenshots
+
+<div align="center">
+
+![Main View](screenshot.png)
+*Main popup showing open tabs count and saved sessions*
+
+<br>
+
+![Session Detail](screenshot2.png)
+*Session detail view with tab list and restore options*
+
+</div>
+
+---
+
 ## Features
 
 - **One-Click Session Saving**: Capture all open, non-system (and not pinned) tabs in the current window with an auto-generated or custom name.
