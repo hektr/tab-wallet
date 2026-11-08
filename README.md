@@ -19,7 +19,6 @@ A simple, private, and efficient tab session manager for Google Chrome and Chrom
 
 - **One-Click Session Saving**: Capture all open, non-system (and not pinned) tabs in the current window with an auto-generated or custom name.
 - **Instant RAM Relief**: Built-in option to automatically close saved tabs, freeing up memory immediately after saving.
-- **Smart RAM Estimation**: Displays the approximate amount of RAM that will be freed based on the number of open tabs.
 - **Granular Control**: View saved sessions, restore all tabs at once, delete entire sessions, or remove individual tabs from a saved session.
 - **Modern UI**: Clean, accessible interface with clear metadata (tab count, time elapsed), smooth interactions, and built-in favicon support.
 - **100% Local & Private**: Your sessions are saved exclusively in `chrome.storage.local`. No data is ever sent to external servers.
