@@ -5,7 +5,7 @@
 
 ![Version](https://img.shields.io/badge/version-1.2-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
-![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-Available-4285F4?logo=google-chrome)
+[![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-Install-blue?logo=googlechrome)](https://chromewebstore.google.com/detail/tab-wallet/jedmkcpggdlkencnfimppgjgmfmffcbh)
 ![Manifest](https://img.shields.io/badge/Manifest-V3-orange)
 ![Privacy](https://img.shields.io/badge/privacy-100%25%20local-brightgreen)
 
