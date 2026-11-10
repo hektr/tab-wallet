@@ -3,7 +3,7 @@
 
 <div align="center">
 
-![Manifest](https://img.shields.io/badge/Manifest-V3-orange)
+[![Manifest V3](https://img.shields.io/badge/Manifest-V3-blue?logo=googlechrome)](https://developer.chrome.com/docs/extensions/develop)
 ![License](https://img.shields.io/badge/license-MIT-green)
 [![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-Install-blue?logo=googlechrome)](https://chromewebstore.google.com/detail/tab-wallet/jedmkcpggdlkencnfimppgjgmfmffcbh)
 ![Privacy](https://img.shields.io/badge/privacy-100%25%20local-brightgreen)
